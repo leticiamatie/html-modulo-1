@@ -1,3 +1,3 @@
-Repositório para os Desafios de Projetos da Digital Innovation One (DIO) - Formação HTML Web Developer
+Repositório para Estudos e Desafios de Projetos da Digital Innovation One (DIO) - Formação HTML Web Developer
 
-Desafio 1: Elaboração de um website com estrutura básica, contento a história, conceitos e utilizando tags aprendidas durante as aulas práticas.
+Projeto 1: Elaboração de um website de estrutura básica utilizando tags aprendidas durante as aulas práticas, contento a história e conceitos técnicos necessários.
